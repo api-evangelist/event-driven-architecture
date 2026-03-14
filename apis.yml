@@ -1,0 +1,16 @@
+name: Event-driven Architecture
+description: A software architecture pattern promoting the production, detection,
+  consumption of, and reaction to events. Systems are designed to respond to state
+  changes asynchronously through event messages.
+url: https://en.wikipedia.org/wiki/Event-driven_architecture
+tags:
+- Architecture
+- Event Driven
+- Messaging
+- Asynchronous
+- Distributed Systems
+- Event Driven Architecture
+created: '2025'
+modified: '2025'
+apis: []
+common: []
