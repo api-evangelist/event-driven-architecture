@@ -1,16 +1,32 @@
+aid: event-driven-architecture
 name: Event-driven Architecture
-description: A software architecture pattern promoting the production, detection,
-  consumption of, and reaction to events. Systems are designed to respond to state
-  changes asynchronously through event messages.
-url: https://en.wikipedia.org/wiki/Event-driven_architecture
+description: >-
+  Event-driven architecture (EDA) is a software architecture pattern promoting
+  the production, detection, consumption of, and reaction to events. In this
+  pattern, systems are designed to respond to state changes asynchronously
+  through event messages. EDA enables loose coupling between services and is
+  widely used in microservices, real-time data processing, and distributed
+  systems.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- Architecture
-- Event Driven
-- Messaging
-- Asynchronous
-- Distributed Systems
-- Event Driven Architecture
-created: '2025'
-modified: '2025'
+  - Architecture
+  - Event Driven
+  - Messaging
+  - Asynchronous
+  - Distributed Systems
+url: https://en.wikipedia.org/wiki/Event-driven_architecture
+created: '2025-01-01'
+modified: '2026-03-16'
+position: Consumer
+access: 3rd-Party
+specificationVersion: '0.19'
 apis: []
-common: []
+common:
+  - type: Website
+    url: https://www.asyncapi.com/
+  - type: Documentation
+    url: https://en.wikipedia.org/wiki/Event-driven_architecture
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
