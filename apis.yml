@@ -11,10 +11,10 @@ type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Architecture
-  - Event Driven
-  - Messaging
   - Asynchronous
   - Distributed Systems
+  - Event Driven
+  - Messaging
 url: https://en.wikipedia.org/wiki/Event-driven_architecture
 created: '2025-01-01'
 modified: '2026-03-16'
