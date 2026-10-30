@@ -1,4 +1,4 @@
-# Event-Driven Architecture (event-driven-architecture)
+# Event-Driven Architecture
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,35 +66,26 @@
 
 Event-driven architecture (EDA) is a software architecture pattern promoting the production, detection, consumption of, and reaction to events. In this pattern, systems are designed to respond to state changes asynchronously through event messages. EDA enables loose coupling between services and is widely used in microservices, real-time data processing, and distributed systems. Foundational specifications include AsyncAPI for describing event-driven APIs and CNCF CloudEvents for a common event format.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/event-driven-architecture/refs/heads/main/apis.yml)
+**Areas:** Architecture · AsyncAPI · Asynchronous · CloudEvents · Distributed Systems · Event-Driven · Messaging · Streaming
 
-## Scope
+## Event-Driven Architecture on APIs.io
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Everything profiled for Event-Driven Architecture is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/event-driven-architecture/](https://apis.io/providers/event-driven-architecture/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+## API Evangelist rating
 
-- Architecture, AsyncAPI, Asynchronous, CloudEvents, Distributed Systems, Event Driven, Messaging, Streaming
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-## Timestamps
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
-- **Created:** 2025-01-01
-- **Modified:** 2026-04-28
+## How this profile is made
 
-## Common Properties
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-- [Reference](https://en.wikipedia.org/wiki/Event-driven_architecture)
-- [Specification](https://www.asyncapi.com/)
-- [Specification](https://cloudevents.io/)
-- [Project](https://www.cncf.io/projects/cloudevents/)
-- [Project](https://www.cncf.io/projects/knative/)
-- [Project](https://www.cncf.io/projects/dapr/)
-- [Article](https://martinfowler.com/articles/201701-event-driven.html)
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Event-Driven Architecture: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-## Maintainers
+## Open an issue
 
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/event-driven-architecture/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
